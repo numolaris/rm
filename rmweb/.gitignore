@@ -1,0 +1,6 @@
+pom.xml
+*.jar
+*.class
+target/
+.lein-deps-sum
+.cake
